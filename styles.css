@@ -1,0 +1,37 @@
+.add-tasks__input {
+    width: 200px;
+    height: 40px;
+}
+
+.add-tasks__button {
+    width: 100px;
+    height: 46px;
+    margin-left: 10px;
+}
+
+.tasks-list {
+    width: 300px;
+    justify-content: space-between;
+}
+
+.tasks-list__info {
+    border: 1px solid rgb(61, 60, 60);
+    height: 50px;
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.tasks-list__checkbox {
+    margin-right: 5px;
+}
+
+.tasks-list__text {
+    margin-left: 5px;
+}
+
+.clear {
+    width: 100px;
+    height: 46px;
+    margin-top: 20px;
+}
